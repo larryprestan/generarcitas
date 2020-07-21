@@ -1,0 +1,16 @@
+{
+  "name": "reservacita",
+  "version": "1.0.0",
+  "description": "MODULO DE AGENDAMIENTO DE CITAS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LP-Soluciones-Informaticas/larry prestan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}

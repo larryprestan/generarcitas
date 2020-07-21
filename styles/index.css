@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#rootcontainer{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+#formulariocontainer{
+    width:350px;
+    height: 600px;
+    padding-top: 5%;
+    margin-left: 0px;
+    border-radius: 10px;
+    border: 2px solid lightseagreen;
+    float: left;
+}
+#listadocontainer{
+    padding-top: 5%;
+    width: 550px;
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    float: right;
+}
+
+#formulariocontainer label{
+    color: lightseagreen;
+    font-weight: 600;
+}
+#formulariocontainer input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid lightseagreen;
+}
+#formulariocontainer button{
+    border: none;
+    outline: none;
+    background-color: lightseagreen;
+    color: white;
+    font-weight: 600;
+    margin-top: 30px;
+}
+#btnsettings{
+    text-decoration: none;
+    color: black;
+}
+
+
